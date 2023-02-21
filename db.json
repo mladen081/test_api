@@ -1,10 +1,76 @@
 {
-  "books": [
+  "players": [
     {
       "id": 1,
-      "firstnName": "M",
-      "lastName": "J",
-      "city": "Rakovica"
+      "num": 1,
+      "name": "David de Gea",
+      "nat": "ESP",
+      "pos": "GK",
+      "app": 34,
+      "sub": 0,
+      "goals": 0,
+      "yellow": 1,
+      "red": 0
+    },
+    {
+      "id": 2,
+      "num": 2,
+      "name": "Victor Lindelof",
+      "nat": "SWE",
+      "pos": "DF",
+      "app": 14,
+      "sub": 5,
+      "goals": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "id": 3,
+      "num": 3,
+      "name": "Eric Bailly",
+      "nat": "IVC",
+      "pos": "DF",
+      "app": 0,
+      "sub": 0,
+      "goals": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "id": 4,
+      "num": 4,
+      "name": "Phill Jones",
+      "nat": "ENG",
+      "pos": "DF",
+      "app": 0,
+      "sub": 0,
+      "goals": 0,
+      "yellow": 0,
+      "red": 0
+    },
+    {
+      "id": 5,
+      "num": 5,
+      "name": "Harry Maguire",
+      "nat": "ENG",
+      "pos": "DF",
+      "app": 9,
+      "sub": 10,
+      "goals": 0,
+      "yellow": 6,
+      "red": 0
+    },
+    {
+      "id": 6,
+      "num": 6,
+      "name": "Lisandro Martinez",
+      "nat": "ARG",
+      "pos": "DF",
+      "app": 27,
+      "sub": 6,
+      "goals": 1,
+      "yellow": 7,
+      "red": 0
     }
   ]
 }
